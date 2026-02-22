@@ -1,3 +1,11 @@
+---
+name: tailwindcss-expert
+description: Enforce Tailwind CSS best practices across every component you touch. Apply these rules automatically whenever writing or reviewing Tailwind class lists, component variants, design tokens, or layout systems.
+license: MIT
+metadata:
+  author: thanix-k
+  version: "1.0.0"
+---
 # Tailwind CSS Expert
 
 Enforce Tailwind CSS best practices across every component you touch. Apply these rules automatically whenever writing or reviewing Tailwind class lists, component variants, design tokens, or layout systems.
